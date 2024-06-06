@@ -1,0 +1,12 @@
+Symlinking /home/khadas/Eurepus_Control/devel/./local_setup.bash
+Symlinking /home/khadas/Eurepus_Control/devel/./local_setup.sh
+Symlinking /home/khadas/Eurepus_Control/devel/./setup.bash
+Symlinking /home/khadas/Eurepus_Control/devel/./env.sh
+Symlinking /home/khadas/Eurepus_Control/devel/./setup.sh
+Symlinking /home/khadas/Eurepus_Control/devel/./setup.zsh
+Symlinking /home/khadas/Eurepus_Control/devel/./cmake.lock
+Symlinking /home/khadas/Eurepus_Control/devel/./_setup_util.py
+Symlinking /home/khadas/Eurepus_Control/devel/./local_setup.zsh
+Symlinking /home/khadas/Eurepus_Control/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/khadas/Eurepus_Control/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/khadas/Eurepus_Control/devel/lib/pkgconfig/catkin_tools_prebuild.pc

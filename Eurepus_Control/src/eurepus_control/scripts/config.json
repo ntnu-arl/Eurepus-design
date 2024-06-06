@@ -1,0 +1,89 @@
+{
+    "motors": {
+        "LateralMotor_FL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -0.2,
+            "sim2real_offset": -60,
+            "inverted": false
+        },
+        "InnerTransversalMotor_FL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -1.2,
+            "sim2real_offset": 3.4,
+            "inverted": false
+        },
+        "OuterTransversalMotor_FL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 12.4,
+            "sim2real_offset": -5,
+            "inverted": true
+        },
+        "LateralMotor_BL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 12.1,
+            "sim2real_offset": -56.2,
+            "inverted": true
+        },
+        "InnerTransversalMotor_BL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 13.9,
+            "sim2real_offset": -14.6,
+            "inverted": true
+        },
+        "OuterTransversalMotor_BL": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -0.6,
+            "sim2real_offset": 1,
+            "inverted": false
+        },
+        "LateralMotor_FR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 12.5,
+            "sim2real_offset": -48.7,
+            "inverted": true
+        },
+        "InnerTransversalMotor_FR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 13.3,
+            "sim2real_offset": 1.3,
+            "inverted": true
+        },
+        "OuterTransversalMotor_FR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -0.9,
+            "sim2real_offset": -6.2,
+            "inverted": false
+        },
+        "LateralMotor_BR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -3.0,
+            "sim2real_offset": -60.4,
+            "inverted": false
+        },
+        "InnerTransversalMotor_BR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": -0.6,
+            "sim2real_offset": -5.2,
+            "inverted": false
+        },
+        "OuterTransversalMotor_BR": {
+            "volt_to_deg": 66.728,
+            "zero_deg_voltage": 0.23,
+            "meas_pwm_diff": 13.6,
+            "sim2real_offset": 0.6,
+            "inverted": true
+        }
+    },
+    "reference": 0
+}
